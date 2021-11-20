@@ -1,0 +1,25 @@
+body {
+
+    background-color: #ffb598;
+    opacity: 1;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #ffb598 4px ), repeating-linear-gradient( #fff5cf55, #fff5cf );
+
+}
+
+.jumbotron {
+    background-image: url("../images/dna.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    border-style:solid
+  }
+
+.p3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+:root {
+    color-scheme: light;
+  }
+html{
+    border: solid;
+}
