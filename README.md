@@ -1,5 +1,5 @@
 # Plotly &amp; Belly Button Biodiversity
-Module 12: JS, HTML and JSON Data
+Module 12: Analysis of Bacterial Data using JS, HTML and JSON Data.
 ## Overview of Analysis
 We have a completed panel for demographic information and now need to visualize the bacterial data for each volunteer. Specifically, we should be able to identify the top 10 bacterial species in their belly buttons. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, these volunteers will be able to identify whether that species is found in their navel.
 
